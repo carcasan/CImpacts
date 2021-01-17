@@ -240,7 +240,7 @@ ordpred=c("lagCOTS","lagCycl","lagDHW","lagOutbreaks","lagAcute","3yr-bleaching 
           "5yr-storms","5yr-bleaching risk","5yr-acute events","Chla","Environ DIN","PAR","River DIN","Salinity Index","Sediments","zone")
 
 ##----------------------------------------------------
-##Heatmap of Variable Importance Scores: Figure S6.A
+##Heatmap of Variable Importance Scores: Figure S7.A
 ##----------------------------------------------------
 
 dev.new()
